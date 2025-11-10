@@ -1,0 +1,11 @@
+/workspaces/rust_study/test_main/target/debug/deps/toml_write-1ed4cb0a34a7611d.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/key.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/string.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/value.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/write.rs
+
+/workspaces/rust_study/test_main/target/debug/deps/libtoml_write-1ed4cb0a34a7611d.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/key.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/string.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/value.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/write.rs
+
+/workspaces/rust_study/test_main/target/debug/deps/libtoml_write-1ed4cb0a34a7611d.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/key.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/string.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/value.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/write.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/key.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/string.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/value.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.2/src/write.rs:

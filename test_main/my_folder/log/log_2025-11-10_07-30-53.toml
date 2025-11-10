@@ -1,0 +1,238 @@
+# Log file created at 2025-11-10T07:30:53.348637627+00:00
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:54.664965732+00:00"
+key_pressed = "Left"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:54.891590603+00:00"
+key_pressed = "Left"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:56.453906539+00:00"
+key_pressed = "Left"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:56.663582776+00:00"
+key_pressed = "Right"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:56.880995483+00:00"
+key_pressed = "Right"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:57.068624292+00:00"
+key_pressed = "Left"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:57.337503568+00:00"
+key_pressed = "Left"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:57.443718877+00:00"
+key_pressed = "Left"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:57.987655284+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:58.211174586+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:58.737110742+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:58.755668332+00:00"
+key_pressed = "w"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:58.967958312+00:00"
+key_pressed = "w"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:59.101639686+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:59.250232614+00:00"
+key_pressed = "w"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:59.295496254+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:59.425250811+00:00"
+key_pressed = "w"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:59.665853420+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:30:59.841743593+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:00.036632127+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:00.196078442+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:00.359961593+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:00.525848928+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:00.671265802+00:00"
+key_pressed = "s"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:00.871091429+00:00"
+key_pressed = "s"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:01.054236949+00:00"
+key_pressed = "s"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:01.219521301+00:00"
+key_pressed = "s"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:01.391640054+00:00"
+key_pressed = "s"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:01.564224105+00:00"
+key_pressed = "s"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:01.745365011+00:00"
+key_pressed = "s"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:02.015760991+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:02.182918505+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:02.534426669+00:00"
+key_pressed = "w"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:02.703724938+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:02.862129121+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:03.143142634+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:03.326638548+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:03.416004312+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:03.498424319+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:03.586278695+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:03.738284686+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:03.887785098+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:03.980015590+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:04.107001289+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:04.250938573+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:04.443749322+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:04.578790712+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:04.672968480+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:04.812427785+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:04.928501013+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:05.012876437+00:00"
+key_pressed = "d"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:05.115127786+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:05.356743980+00:00"
+key_pressed = "a"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:05.526257351+00:00"
+key_pressed = "s"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:05.651595926+00:00"
+key_pressed = "s"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:05.858019569+00:00"
+key_pressed = "s"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:06.170727517+00:00"
+key_pressed = "y"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:07.328439244+00:00"
+key_pressed = "Tab"
+
+[[log_event]]
+timestamp = "2025-11-10T07:31:08.843944600+00:00"
+key_pressed = "q"
+
