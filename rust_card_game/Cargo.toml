@@ -1,0 +1,12 @@
+[package]
+name = "rust_card_game"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.27"
+serde = { version = "1.0", features = ["derive"] }
+toml = "0.8"
+chrono = "0.4"
+bcrypt = "0.15"
+rand = "0.8"

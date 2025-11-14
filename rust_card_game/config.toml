@@ -1,0 +1,4 @@
+
+game_title = "My Baccarat Game"
+number_of_decks = 8
+user_db_path = "data/users.toml"

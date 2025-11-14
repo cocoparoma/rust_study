@@ -6,4 +6,3 @@ password_hash = "$2b$12$ZifcMpbO41aiVHYJFgBYfuVQqfSKhFMlM3ixsNfatn7pDyV1gwyce"
 
 [testId]
 password_hash = "$2b$12$O.2iMn3apzhKe2INpBmtIu2r0ihLnD.OmRsj6c.Ec9g3HXvVHy7lm"
-
